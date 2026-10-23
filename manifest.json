@@ -1,0 +1,9 @@
+{
+  "name": "CatchBook – Dein digitales Fangbuch",
+  "short_name": "CatchBook",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ed",
+  "theme_color": "#123d32",
+  "lang": "de"
+}
